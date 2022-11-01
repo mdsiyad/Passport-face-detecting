@@ -1,0 +1,13 @@
+#gitignore of pycharm
+.idea
+*.iml
+*.ipr
+*.iws
+images
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.dylib
+venv
